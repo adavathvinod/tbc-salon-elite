@@ -5,7 +5,7 @@ const floatingButtons = [
   {
     icon: MapPin,
     label: "Directions",
-    href: "https://maps.google.com/?q=VIP+Hills+Silicon+Valley+Madhapur+Hyderabad",
+    href: "https://www.google.com/maps/place/TBC+Salon+Madhapur/",
     color: "bg-red-500 hover:bg-red-600",
   },
   {
